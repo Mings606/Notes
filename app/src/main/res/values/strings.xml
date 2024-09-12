@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="text_new_note">New note</string>
+    <string name="text_save">Save</string>
+    <string name="text_choose_a_category">Choose a category</string>
+    <string name="text_please_input_note_content">Please input note content</string>
+    <string name="text_settings">Settings</string>
+    <string name="text_delete_all_notes">Delete All Notes</string>
+    <string name="text_online_customer">Online Customer</string>
+    <string name="text_user_agreement">User Agreement</string>
+    <string name="text_about_us">About Us</string>
+    <string name="text_privacy_policy">Privacy Policy</string>
+    <string name="text_home">Home</string>
+    <string name="text_summary">Summary</string>
+    <string name="text_recently_created_notes">Recently created notes</string>
+    <string name="text_work_and_study">Work and study</string>
+    <string name="text_detail">Detail</string>
+    <string name="text_home_life">Home life</string>
+    <string name="text_health_and_wellness">Health and wellness</string>
+    <string name="text_all_notes_have_been_cleared">All notes have been cleared</string>
+</resources>
